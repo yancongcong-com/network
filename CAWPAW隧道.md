@@ -45,7 +45,7 @@
    - AP状态到Run
 7. 通过capwap隧道转发数据Run
    - 30秒后
-   - AP向AC发送Keep-Alive(控制隧道)
+   - AP向AC发送Keep-Alive(数据隧道)
    - AC状态进入Run 
    - AP/AC发送Echo (控制隧道)
    - 每30秒发送报文维护隧道
